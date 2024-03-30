@@ -25,12 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://blog.zlatkovsky.cz"
 twitter_username: timichal
-github_username: timichal
+instagram_username: timichal
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  date_format: "%d. %m. %Y"
 
 destination: docs
 
