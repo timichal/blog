@@ -1,3 +1,3 @@
-Dev: `bundle exec jekyll serve --destination _dev`
+Dev: `./dev.bat`
 
-Build: `bundle exec jekyll build`
+Build: `./build.bat`
