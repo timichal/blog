@@ -49,4 +49,5 @@ destination: docs
 exclude:
   - .sass-cache/
   - .jekyll-cache/
+  - docs/
   - README.md
