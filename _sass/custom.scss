@@ -1,0 +1,27 @@
+.float-left {
+  float: left;
+  margin-top: 10px;
+  margin-right: 20px;
+  width: 60%;
+}
+
+.float-right {
+  float: right;
+  margin-top: 10px;
+  margin-left: 20px;
+  width: 60%;
+}
+
+.float-40 {
+  width: 40%;
+}
+
+.float-right img,
+.float-left img {
+  width: 100%;
+}
+
+.img-caption {
+  font-style: italic;
+  font-size: smaller;
+}
