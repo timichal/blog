@@ -673,4 +673,15 @@ table td {
   font-size: smaller;
 }
 
+@media only screen and (max-width: 600px) {
+  .float-right {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .float-left {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
