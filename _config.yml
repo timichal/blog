@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Vlakem po Evropě
+author: Michal Zlatkovský
 email: michal@zlatkovsky.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Toto je rozhodně blog!
