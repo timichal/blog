@@ -3,6 +3,7 @@ layout: page
 title: O Interrailu
 permalink: /interrail/
 header_order: 2
+toc: true
 ---
 
 ### Co je Interrail?
