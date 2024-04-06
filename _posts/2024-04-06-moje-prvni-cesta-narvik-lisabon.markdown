@@ -3,7 +3,7 @@ layout: post
 title:  "Moje první cesta: Narvik-Lisabon"
 date:   2024-04-06 20:52:00 +0100
 categories: z-minulosti
-summary: "První zážitek s cestování vlakem po Evropě. Pětidenní cesta, na kterou jsem si naivně koupil Interrail na čtyři dny."
+summary: "Rok 2021 a první zážitek s cestování vlakem po Evropě. Pětidenní cesta, na kterou jsem si naivně koupil Interrail na čtyři dny."
 toc: true
 ---
 _Tenhle report ze své vůbec první vlakové cesty po Evropě jsem psal v roce 2022. Dávám ho sem jen lehce upravený._
@@ -266,25 +266,25 @@ Na nádraží v Lisabonu vystupuju do přímořského podnebí a patnácti stup�
 <table>
   <tbody>
     <tr>
-      <td>7. 12.</td>
+      <td>7. 12. 2021</td>
       <td>Narvik <i>15:13</i> → <i>9:22</i> Stockholm</td>
     </tr>
     <tr>
-      <td>8. 12.</td>
+      <td>8. 12. 2021</td>
       <td>Stockholm <i>10:21</i> → <i>15:23</i> Kodaň <i>18:56</i> → <i>20:38</i> Fredericia 20:45 → <i>22:07</i>
         Flensburg <i>22:15</i> → <i>23:22</i> Neumünster <i>23:33</i> → <i>0:25</i> Hamburg</td>
     </tr>
     <tr>
-      <td>9. 12.</td>
+      <td>9. 12. 2021</td>
       <td>Hamburg <i>3:20</i> → <i>7:44</i> Frankfurt <i>8:56</i> → <i>12:52</i> Paříž <i>15:52</i> → <i>20:28</i>
         Hendaye <i>20:33</i> → <i>21:13</i> San Sebastián</td>
     </tr>
     <tr>
-      <td>10. 12.</td>
+      <td>10. 12. 2021</td>
       <td>San Sebastián <i>8:57</i> → <i>14:28</i> Madrid</td>
     </tr>
     <tr>
-      <td>11. 12.</td>
+      <td>11. 12. 2021</td>
       <td>Madrid <i>10:35</i> → <i>11:48</i> Puertollano <i>12:00</i> → <i>16:05</i> Badajoz <i>16:24</i> →
         <i>18:14</i> Entroncamento <i>18:44</i> → <i>20:12</i> Lisabon
       </td>
