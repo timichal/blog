@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 17px/1.75 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 18px/1.75 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -59,7 +59,7 @@ figure > img {
 }
 
 figcaption {
-  font-size: 14.875px;
+  font-size: 15.75px;
 }
 
 /**
@@ -109,7 +109,7 @@ blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 19.125px;
+  font-size: 20.25px;
   letter-spacing: -1px;
   font-style: italic;
 }
@@ -122,7 +122,7 @@ blockquote > :last-child {
  */
 pre,
 code {
-  font-size: 15.9375px;
+  font-size: 16.875px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef;
@@ -223,9 +223,9 @@ table td {
 }
 
 .site-title {
-  font-size: 27.625px;
+  font-size: 29.25px;
   font-weight: 300;
-  line-height: 66.9375px;
+  line-height: 70.875px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -236,7 +236,7 @@ table td {
 
 .site-nav {
   float: right;
-  line-height: 66.9375px;
+  line-height: 70.875px;
 }
 .site-nav .nav-trigger {
   display: none;
@@ -308,7 +308,7 @@ table td {
 }
 
 .footer-heading {
-  font-size: 19.125px;
+  font-size: 20.25px;
   margin-bottom: 15px;
 }
 
@@ -319,7 +319,7 @@ table td {
 }
 
 .footer-col-wrapper {
-  font-size: 15.9375px;
+  font-size: 16.875px;
   color: #828282;
   margin-left: -15px;
 }
@@ -372,11 +372,11 @@ table td {
 }
 
 .page-heading {
-  font-size: 34px;
+  font-size: 36px;
 }
 
 .post-list-heading {
-  font-size: 29.75px;
+  font-size: 31.5px;
 }
 
 .post-list {
@@ -388,13 +388,13 @@ table td {
 }
 
 .post-meta {
-  font-size: 14.875px;
+  font-size: 15.75px;
   color: #828282;
 }
 
 .post-link {
   display: block;
-  font-size: 25.5px;
+  font-size: 27px;
 }
 
 /**
@@ -405,13 +405,13 @@ table td {
 }
 
 .post-title {
-  font-size: 44.625px;
+  font-size: 47.25px;
   letter-spacing: -1px;
   line-height: 1;
 }
 @media screen and (max-width: 800px) {
   .post-title {
-    font-size: 38.25px;
+    font-size: 40.5px;
   }
 }
 
@@ -419,27 +419,27 @@ table td {
   margin-bottom: 30px;
 }
 .post-content h2 {
-  font-size: 34px;
+  font-size: 36px;
 }
 @media screen and (max-width: 800px) {
   .post-content h2 {
-    font-size: 29.75px;
+    font-size: 31.5px;
   }
 }
 .post-content h3 {
-  font-size: 27.625px;
+  font-size: 29.25px;
 }
 @media screen and (max-width: 800px) {
   .post-content h3 {
-    font-size: 23.375px;
+    font-size: 24.75px;
   }
 }
 .post-content h4 {
-  font-size: 21.25px;
+  font-size: 22.5px;
 }
 @media screen and (max-width: 800px) {
   .post-content h4 {
-    font-size: 19.125px;
+    font-size: 20.25px;
   }
 }
 
@@ -682,6 +682,12 @@ table td {
     width: 100%;
     margin-bottom: 10px;
   }
+}
+table td:first-child {
+  font-weight: bold;
+  vertical-align: top;
+  padding-right: 25px;
+  white-space: nowrap;
 }
 
 /*# sourceMappingURL=main.css.map */

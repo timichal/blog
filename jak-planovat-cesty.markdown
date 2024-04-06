@@ -15,7 +15,7 @@ Pokud vás zajímá romantičtější zpracování vlakového cestování, bude 
 
 ### Kudy tam dojet?
 <div class="float-right">
-  <img src="/static/ircz.jpg">
+  <img src="/img/pages/ircz.jpg">
   <div class="img-caption">
     Česko a okolí na interrailové mapě.
   </div>

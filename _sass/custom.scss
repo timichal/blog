@@ -36,3 +36,10 @@
       margin-bottom: 10px;
   }
 }
+
+table td:first-child {
+  font-weight: bold;
+  vertical-align: top;
+  padding-right: 25px;
+  white-space: nowrap;
+}
