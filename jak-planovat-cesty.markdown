@@ -6,7 +6,7 @@ header_order: 2
 toc: true
 ---
 ### Kam vlastně jet?
-Při cestování vlakem máte dva typy cílů. Buď jsou to samotná evropská města (nebo příroda), kde vám vlak slouží jen jako dopravní prostředek, nebo, pokud si dokážete užít koukání z okna, samotné vlakové tratě, které občas umí být dost malebné. O tom, jaké destinace v Evropě chcete vidět, asi docela máte představu - a o nejhezčích cestách vlakem tu mám samostatný článek.
+Při cestování vlakem máte dva typy cílů. Buď jsou to samotná evropská města (nebo příroda), kde vám vlak slouží jen jako dopravní prostředek, nebo, pokud si dokážete užít koukání z okna, samotné vlakové tratě, které občas umí být dost malebné. O tom, jaké destinace v Evropě chcete vidět, asi docela máte představu - a o nejhezčích cestách vlakem tu mám [samostatný článek]({% link nejhezci-trate.markdown %}).
 
 #### Inspirace z knih
 Vlakovými tratěmi a místy, kam se po nich dá dojet, se zabývá i spousta knížek. Vůbec nejlepší čistě praktický železniční průvodce je pro mě [Europe by Rail](https://www.europebyrail.eu/), který vyšel v roce 2022 v už sedmnácté edici. Najdete v něm podrobné popisy celkem 50 vlakových výletů po Evropě. Dostanete tak tipy na nejkrásnější evropské tratě i na objevování měst a míst po cestě. Nechybí ani informace o jízdních řádech nebo Interrailu. Na mapy cest bez popisků se můžete [podívat zdarma online](https://www.europebyrail.eu/online-route-maps-17th-edition/).
