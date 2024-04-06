@@ -2,7 +2,7 @@
 layout: page
 title: O blogu
 permalink: /o-blogu/
-header_order: 3
+header_order: 4
 --- 
 
 Rád jezdím po Evropě vlakem. Je to míň stresující (a ekologičtější) než letecká přeprava, míň namačkané než autobus a přístupnější než auto (aspoň pro mě, který řídil naposledy v osmnácti).
