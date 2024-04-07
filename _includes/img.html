@@ -1,14 +1,14 @@
 <div class="{{include.cls}}">
   {% if include.nosm != "true" %}
-  <a href="/img/{{include.path}}.jpg" target="_blank">
-    <img src="/img/{{include.path}}-sm.jpg" />
-  </a>
+    <a href="/img/{{include.path}}.jpg" target="_blank">
+      <img src="/img/{{include.path}}-sm.jpg" />
+    </a>
   {% else %}
-  <img src="/img/{{include.path}}.jpg" />
+    <img src="/img/{{include.path}}.jpg" />
   {% endif %}
   {% if include.caption %}
-  <div class="img-caption">
-    {{include.caption}}
-  </div>
+    <div class="img-caption">
+      {{ include.caption }}
+    </div>
   {% endif %}
 </div>
