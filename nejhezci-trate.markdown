@@ -7,10 +7,10 @@ toc: true
 ---
 Rádi se jen tak vozíte vlakem a přemýšlíte, kde u toho budete mít nejhezčí výhledy? Chcete si naplánovat výlet tak, aby i cesta byla cíl? Tenhle subjektivní přehled nejhezčích vlakových tratí v Evropě je tu pro vás.
 
-### Přes Alpy do Švýcarska: Transalpin Graz-Zürich
+### Přes Alpy do Švýcarska: Transalpin Graz–Zürich
 {% include img.html path="pages/transalpin" cls="float-right" caption="Výhled na Alpy z panoramatického okna Transalpinu." %}
 
-Každý den před desátou dopoledne vyjíždí z rakouského Grazu vlak Transalpin. Cestujícím poskytuje nádherné výhledy na alpské masivy, které zdolává po starých tratích, aby po necelých deseti hodinách dojel přes Lichtenštejnsko až do Švýcarska. Pro Čechy je to vcelku nenáročný vlakový zážitek: do Grazu se dá dostat přímo z Prahy i z Brna, opačným směrem se dá jednoduše jet přes Mnichov.
+Každý den před desátou dopoledne vyjíždí z rakouského Grazu vlak **Transalpin**. Cestujícím poskytuje nádherné výhledy na alpské masivy, které zdolává po starých tratích, aby po necelých deseti hodinách dojel přes Lichtenštejnsko až do Švýcarska. Pro Čechy je to vcelku nenáročný vlakový zážitek: do Grazu se dá dostat přímo z Prahy i z Brna, opačným směrem se dá jednoduše jet přes Mnichov.
 
 Z Rakouska do Švýcarska jezdí spoje často, ale snad všechny ostatní vlaky objíždějí Alpy rychlejší tratí přes Neměcko. Transalpin jede přímo skrz střed a západ Rakouska, kde obsluhuje horská městečka a letoviska. Pro ty, kteří si na něj udělají část, má ještě jednu výhodu: pokud máte jízdenku do první třídy, můžete jet švýcarským panoramatickým vagónem s obřími okny, odkud můžete obdivovat Alpy.
 
@@ -19,26 +19,41 @@ Vlak jede každý den i směrem z Zürichu, ale pokud jedete z Rakouska, vyplat�
 ### Švýcarské tratě
 Švýcarsko je zrádná země: sice nesmyslně drahá, ale má nejen nejlíp fungující systém vlaků, ale taky nejmalebnější tratě.
 
-Moje nejoblíbenější je ta, po které jezdí turistický Bernina Express, z Churu do italského Tirana. Je to jediná alpská trať, která hory nepřekonává dlouhými tunely, ale vyšplhá až na jejich hřebeny. Je zapsaná v UNESCO a v Bernina Expressu, který po ní jezdí, vám z reproduktorů pouští zajímavosti o místech, kterými projíždí. Místa v jeho panoramatických vagónech se musí draze rezervovat, ale v čele vlaku je i obyčejný vagón, kam si můžete sednout jen tak - a výhled máte skoro stejný. Po trase navíc jezdí i běžné lokálky.  
+{% include img.html path="pages/bernina" cls="float-left" caption="Lednový Berninský průsmyk z okna lokálky." %}
 
-Na Bernina Express navazuje trať přes celý jih Švýcarska, kterou z větší části obsluhuje společnost Matterhorn Gotthard Bahn. Jezdí po ní zážitkový Glacier Express, kde je rezervace ještě dražší než v Bernině, ale i spousta běžných vlaků. Na východě začíná v Churu, kde Bernina Express končí. Pokračuje na západ přes vysokohorskou část (nejvyšší stanice je ve výšce 2044 metrů nad mořem) do Vispu a pak úžasnou slepou odbočkou do Zermattu pod Matterhornem, na který se dá vyjet nejvyšší evropskou lanovkou. Stojí za to si ji projet celou.
+Moje nejoblíbenější je ta, po které jezdí turistický **Bernina Express**, z Churu do italského Tirana. Je to jediná alpská trať, která hory nepřekonává dlouhými tunely, ale vyšplhá až na jejich hřebeny. Je zapsaná v UNESCO a v Bernina Expressu, který po ní jezdí, vám z reproduktorů pouští zajímavosti o místech, kterými projíždí. Místa v jeho panoramatických vagónech se musí draze rezervovat, ale v čele vlaku je i obyčejný vagón, kam si můžete sednout jen tak - a výhled máte skoro stejný. Po trase navíc jezdí i běžné lokálky.  
 
-Hodně se propaguje taky trať, která má marketingový název Golden Pass. Vede z Luzernu nedaleko Zürichu přes Interlaken a Zweisimmen do Montreux u Ženevy. Cesta je od Alp trochu severněji, takže hory jsou spíš v dálce. Projíždíte napřed kolem jezer, pak se trať vine kopci a nakonec sjíždí do Montreux s výhledem na Ženevské jezero. Tak ohromující jako předtím zmíněné trati mi nepřijde (a taky musíte několikrát přestupovat), ale pokud máte ve Švýcarsku čas, tahle cesta vás mrzet nebude.
+Na Bernina Express navazuje trať přes celý jih Švýcarska, kterou z větší části obsluhuje společnost Matterhorn Gotthard Bahn. Jezdí po ní zážitkový **Glacier Express**, kde je rezervace ještě dražší než v Bernině, ale i spousta běžných vlaků. Na východě začíná v Churu, kde Bernina Express končí. Pokračuje na západ přes vysokohorskou část (nejvyšší stanice je ve výšce 2044 metrů nad mořem) do Vispu a pak úžasnou slepou odbočkou do Zermattu pod Matterhornem, na který se dá vyjet nejvyšší evropskou lanovkou. Stojí za to si ji projet celou.
 
-Za zmínku stojí i Centovalli Express, který jede z italského příhraničního městečka Domodossola do Locarna v italské části Švýcarska. Vlak stoupá vysoko nad Domodossolu a jede podél rokle po vysokých viaduktech až k locarnskému jezeru Lago Maggiore. Na webu z něj dělají turistický zážitek, ale jinak vlak funguje jako běžná lokálka spojující těžko dostupné horské vesničky v Itálii.
+Hodně se propaguje taky trať, která má marketingový název **Golden Pass**. Vede z Luzernu nedaleko Zürichu přes Interlaken a Zweisimmen do Montreux u Ženevy. Cesta je od Alp trochu severněji, takže hory jsou spíš v dálce. Projíždíte napřed kolem jezer, pak se trať vine kopci a nakonec sjíždí do Montreux s výhledem na Ženevské jezero. Tak ohromující jako předtím zmíněné trati mi nepřijde (a taky musíte několikrát přestupovat), ale pokud máte ve Švýcarsku čas, tahle cesta vás mrzet nebude.
 
-Ve Švýcarsku jsou vlaky hodně drahé, takže se tam obzvlášť vyplatí [Interrail]({% link o-interrailu.markdown %}). Platí skoro všude, ale existuje pár výjimek, hlavně dvě vysokohorské tratě: na Jungfraujoch a Gornergrat. Trať na Jungfraujoch je vůbec nejvyšší v Evropě, ale většinu času jede vlak v tunelu. Ta na Gornergrat stojí za to i v průběhu cesty - z Zermattu za půl hodiny překoná 1500 metrů převýšení a když je hezké počasí, dohlédnete na nejvyšší hory v Alpách. Cílová stanice je 3089 metrů nad mořem.
+{% include img.html path="pages/gornergrat" cls="float-right float-60" caption="Konec dubna na Gornergratu." %}
 
-### Z Česka do Polska: Tanvald-Szklarska Poreba-Jelenia Gora
-Jednu malebnou horskou trať máme i v Česku. Zároveň je to levný zážitek: v nádražce v Tanvaldu si můžete dát pivo, které ještě v roce 2023 stálo 25 korun, a pokračovat přes Krkonoše do Polska. Vlak cestou na hranice vystoupá do necelých 900 metrů nad mořem do Szklarske Poreby, odkud se dá s výhledem na vrcholky Krkonoš dojet dál do polské Jelení Hory.
+Za zmínku stojí i **Centovalli Express**, který jede z italského příhraničního městečka Domodossola do Locarna v italské části Švýcarska. Vlak stoupá vysoko nad Domodossolu a jede podél rokle po vysokých viaduktech až k locarnskému jezeru Lago Maggiore. Na webu z něj dělají turistický zážitek, ale jinak vlak funguje jako běžná lokálka spojující těžko dostupné horské vesničky v Itálii.
 
-<!--
-### Italské pobřeží, přes Monako do Cannes
-Mezi italsko a francouzským Nice vede pobřežní trať, místy tak těsně podél moře, že to vypadá, že do něj vlak snad spadne. Po cestě se dá vystoupit v Monaku nebo v Cannes, dějišti slavného filmového festivalu.
+Ve Švýcarsku jsou vlaky hodně drahé, takže se tam obzvlášť vyplatí [Interrail]({% link o-interrailu.markdown %}). Platí skoro všude, ale existuje pár výjimek, hlavně dvě vysokohorské tratě: na Jungfraujoch a Gornergrat. Trať na **Jungfraujoch** je vůbec nejvyšší v Evropě, ale většinu času jede vlak v tunelu. U té na **Gornergrat** stojí za to samotná cesta - z Zermattu za půl hodiny překoná 1500 metrů převýšení a když je hezké počasí, dohlédnete na nejvyšší hory v Alpách. Cílová stanice je 3089 metrů nad mořem.
+
+### Z Česka do Polska: Tanvald–Szklarska Poreba–Jelenia Gora
+Jednu malebnou horskou trať máme i v Česku. Zároveň je to levný zážitek: v nádražce v Tanvaldu si můžete dát pivo, které ještě v roce 2023 stálo 25 korun, a pokračovat přes Krkonoše do Polska. Vlak cestou na hranice vystoupá do necelých 900 metrů nad mořem do **Szklarske Poreby**, odkud se dá s výhledem na vrcholky Krkonoš dojet dál do polské Jelení Hory.
+
+### Mezi Itálií a Francií podél moře
+{% include img.html path="pages/vernazza" cls="float-left" caption="Z pěší stezky do Vernazzy, jedné z vesniček v italském Cinque Terre." %}
+
+Italsko-francouzské pobřeží lemuje trať, která vede tak těsně podél moře, že to místy vypadá, že stačí málo a vlak do něj spadne. Pokud začnete v italské La Spezii, kam mimo jiné jede noční vlak z Vídně, můžete malebné úseky projet za den čtyřmi nebo pěti vlaky.
+
+Zastávek ale můžete udělat hodně. Hned za La Spezií je totiž **Cinque Terre**, turisticky velmi oblíbená oblast pěti pitoreksních vesniček na útesech přímo u moře. Kromě pomalého vlaku mezi nimi vedou pěší stezky. 
+
+Vlak se nakonec dokodrcá až do Genovy (Janova), nejdůležitějšího italského přístavu. Trať, která se dál drží mořského břehu, pak vede přes pohraniční Ventimiglii až na francouzské Azurové pobřeží - **Côte d'Azur**. Zastavit se tak můžete v samostatném Monaku (které z vlaku neuvidíte - zastávka je uprostřed tunelu), v největším letovisku Nice nebo třeba v Cannes, dějišti slavného filmového festivalu.
+
+Víc do vnitrozemí zamíří francouzská lokálka až za přístavem Saint-Raphaël, ale k moři se nakonec vrátí, když dojede do druhého největšího francouzského města **Marseille**. Z něj pak jezdí třeba přímé TGV do Paříže.
 
 ### Vlakovým trajektem na Sicílii
-Dnes už zbývá jediné místo, kde si v Evropě vyzkoušet dopravní zvláštnost: vlakový trajekt. Když si zaplatíte místenku ve Frecciarosse (stojí 10 euro), můžete se dostat přes celou Itálii až na Sicílii. Kromě toho, že italské rychlovlaky jsou asi nejlepší v Evropě - jet mezi Římem a Neapolí asi 300 km/h je dost zážitek - je součástí cesty právě i trajekt přes Messinskou úžinu. Na ten se vlak nalodí a stráví tam zhruba hodinu, během které se technicky musí vystoupit, ale reálně vás nikdo nenutí. Byla by ale škoda nepodívat se na moře.  
+{% include img.html path="pages/messina" cls="float-right" caption="Vlaky na trajektu směrem ze sicilské Messiny." %}
+Dnes už v Evropě zbývá poslední trasa, na které si můžete vyzkoušet jednu dřív rozšířenější dopravní zvláštnost: vlakový trajekt. Italským rychlovlakem Frecciarossa se dostanete přes celou Itálii až na Sicílii. Kromě toho, že tyhle vlaky patří mezi nejlepší v Evropě - jet mezi Římem a Neapolí rychlostí asi 300 kilometrů v hodině je památný zážitek - je součástí cesty **trajekt přes Messinskou úžinu**.
 
+Na ten se vlak složitým procesem nalodí a asi hodinu se přepravuje přes moře. Během cesty trajektem je oficiálně nutné z vlaku vystoupit a vyjít na palubu. V praxi vás k tomu nikdo nenutí, ale přijít o výhledy na Sicílii by byla škoda.  
+
+<!--
 ### Z Nimes do Clermont-Ferrand
 Jedna hezká trať je kupodivu i ve Francii. Jednou nebo dvakrát denně jede po staré trati mezi Nimes a Clermont-Ferrand motorák, který překonává divokou trasu atd.
 

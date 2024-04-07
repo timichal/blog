@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moje první cesta: Narvik-Lisabon"
+title:  "Moje první cesta: Narvik–Lisabon"
 date:   2024-04-06 20:52:00 +0100
 categories: z-minulosti
 summary: "Rok 2021 a první zážitek s cestování vlakem po Evropě. Pětidenní cesta, na kterou jsem si naivně koupil Interrail na čtyři dny."
