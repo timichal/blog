@@ -4,6 +4,8 @@ title: Nejhezčí tratě
 permalink: /nejhezci-trate/
 header_order: 1
 toc: true
+description: Přehled nejhezčích vlakových tratí v Evropě
+image: /img/pages/inlandsbanan.jpg
 ---
 Rádi se jen tak vozíte vlakem a přemýšlíte, kde u toho budete mít nejhezčí výhledy? Chcete si naplánovat výlet tak, aby i cesta byla cíl? Tenhle subjektivní přehled nejhezčích vlakových tratí v Evropě je tu pro vás.
 
