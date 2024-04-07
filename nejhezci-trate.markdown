@@ -66,9 +66,22 @@ O nic míň hezké je jet vlakem po jižní trase **Oslo–Stavanger**. Bergen i
 Pokud vás láká jet na úplný sever evropské vlakové sítě, můžete si vybrat jednu ze dvou srovnatelně malebných tratí **z Osla do Trondheimu**, dalšího z hezkých norských přístavů. O letních nocích už tam zažijete jen pár hodin tmy. Z Trondheimu pak zčásti podél pobřeží vyráží na desetihodinovou cestu vlak až do **Bodø** za polárním kruhem.
 
 ### Balkánem z Baru do Bělehradu
+{% include img.html path="pages/bar" cls="float-left float-60" caption="Výhled z okna vlaku na Černou horu." %}
+Země bývalé Jugoslávie jsou na tom s vlakovými spojeními bídně. Přestože mezi nimi vedou koleje, na mezinárodním provozu se většinou balkánské státy nejsou schopné dohodnout. Vzácnou výjimkou je letní **vlak z Baru na pobřeží Černé Hory do srbského Bělehradu**.
+
+Jízdenka stojí pár korun a zážitek je nejen pohled z okna hlavně v první půlce cesty, kdy trať vede po strmých úbočích balkánských hor, ale i samotný vlak. Je sestavený z různě starých vagónů z druhé ruky (když budete mít štěstí, narazíte na nějaký klimatizovaný) a i když je to oficiálně zakázané, všichni včetně průvodčího kouří - obvykle aspoň v uličce dál od kupé. To už je mimo Balkán jen těžko představitelné.
 
 ### Inlandsbanan: Na sever švédským vnitrozemím
-<!--
-Vyloženě turistický vlak jezdí jen v létě mezi Morou a Gällivare. Ve vlaku je průvodce, který říká zajímavosti o okolí, a dělá se pár zastávek na nákup suvenýrů a fotku na polárním kruhu. Trať na dvou úsecích překoná XX kilometrů.
--->
+{% include img.html path="pages/inlandsbanan" cls="float-right" caption="Jedna z občerstovacích zastávek uprostřed švédských lesů." %}
+Trať **Inlandsbanan**, která vede švédským vnitrozemím až za polární kruh, je v celé délce asi 1300 kilometrů přístupná jen v létě, kdy po ní jezdí turistické vlaky. To v tomhle případě znamená, že v malém motoráku se o vás stará průvodce, který švédsky i anglicky vypráví o odlehlých místech, kterými vlak projíždí.
+
+Nejoblíbenější je severní půlka Inlandsbanan z Östersundu do Gällivare. Vlak dorazí do cíle za 14 hodin jízdy nekonečnými severskými lesy, ale s hodinovou zastávkou na oběd a pár kratšími na nákup suvenýrů a na focení se s polárním kruhem (tedy cedulí, která ho označuje). Zájemci dostanou za zdolání polární trasy i diplom.
+
 ### West Highland Line: Na Skye přes viadukt z oblíbeného filmu pro mileniály
+{% include img.html path="pages/skye" cls="float-left" caption="Na samotné West Highland Line byla strašná mlha, takže na fotkách, co mám odtam, není nic vidět. Tady aspoň pohled z ostrova Skye." %}
+
+Pokud jste v posledních dvaceti letech žili mezi lidmi, nejspíš znáte [Glenfinnanský viadukt](https://cs.wikipedia.org/wiki/Glenfinnansk%C3%BD_viadukt). Slavná dopravní stavba leží na trati **West Highland Line**, která, jak název napovídá, překonává západ skotské Vysočiny z Glasgow do vesnice Mallaig ležicí naproti ostrovu Skye.
+
+Pokud se vám poštěstí a celá cesta nebude v mlze, můžete v řídce obydleném okolí tratě pozorovat nejen viadukt, ale hlavně zelené skotské kopce s pasoucími se ovcemi a kravami - a palírny whisky, které jsou snad v každé druhé vesnici. Z Mallaigu můžete pokračovat přívozem na ostrov Skye, jinak těžko dostupný turistický poklad.
+
+A pokud si troufáte na nepředvídatelné britské autobusové spoje, které na Skye jezdí sporadicky a se zpožděními, můžete se zpátky do civilizace vrátit přes vesničku Kyle of Lochalsh na protějším břehu. Tam začíná další z několika málo tratí Vysočinou, mířící do jejího největšího města Invernessu, takže kromě filmového viaduktu možná uvidíte i Lochnesku.
