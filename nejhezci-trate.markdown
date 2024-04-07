@@ -80,7 +80,7 @@ Nejoblíbenější je severní půlka Inlandsbanan z Östersundu do Gällivare. 
 ### West Highland Line: Na Skye přes viadukt z oblíbeného filmu pro mileniály
 {% include img.html path="pages/skye" cls="float-left" caption="Na samotné West Highland Line byla strašná mlha, takže na fotkách, co mám odtam, není nic vidět. Tady aspoň pohled z ostrova Skye." %}
 
-Pokud jste v posledních dvaceti letech žili mezi lidmi, nejspíš znáte [Glenfinnanský viadukt](https://cs.wikipedia.org/wiki/Glenfinnansk%C3%BD_viadukt). Slavná dopravní stavba leží na trati **West Highland Line**, která, jak název napovídá, překonává západ skotské Vysočiny z Glasgow do vesnice Mallaig ležicí naproti ostrovu Skye.
+Pokud jste v posledních dvaceti letech žili mezi lidmi, nejspíš znáte [Glenfinnanský viadukt](https://cs.wikipedia.org/wiki/Glenfinnansk%C3%BD_viadukt). Slavná dopravní stavba leží na trati **West Highland Line**, která, jak název napovídá, překonává západ skotské Vysočiny z Glasgow do vesnice Mallaig ležící naproti ostrovu Skye.
 
 Pokud se vám poštěstí a celá cesta nebude v mlze, můžete v řídce obydleném okolí tratě pozorovat nejen viadukt, ale hlavně zelené skotské kopce s pasoucími se ovcemi a kravami - a palírny whisky, které jsou snad v každé druhé vesnici. Z Mallaigu můžete pokračovat přívozem na ostrov Skye, jinak těžko dostupný turistický poklad.
 
