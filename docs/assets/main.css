@@ -649,18 +649,18 @@ table td {
   float: left;
   margin-top: 10px;
   margin-right: 20px;
-  width: 60%;
+  width: 40%;
 }
 
 .float-right {
   float: right;
   margin-top: 10px;
   margin-left: 20px;
-  width: 60%;
+  width: 40%;
 }
 
-.float-40 {
-  width: 40%;
+.float-60 {
+  width: 60%;
 }
 
 .float-right img,

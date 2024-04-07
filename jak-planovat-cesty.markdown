@@ -14,12 +14,7 @@ Vlakovými tratěmi a místy, kam se po nich dá dojet, se zabývá i spousta kn
 Pokud vás zajímá romantičtější zpracování vlakového cestování, bude se vám líbit knížka [Návod k použití železnice](https://www.databazeknih.cz/knihy/navod-k-pouziti-zeleznice-520130) od Jaroslava Rudiše. Rudiš se zaměřuje hlavně na barvité popisy „železničních lidí“ a vlastních zážitků na cestách vlakem, ale jako inspirace k tomu vyrazit po kolejích do neznáma funguje knížka skvěle.
 
 ### Kudy tam dojet?
-<div class="float-right">
-  <img src="/img/pages/ircz.jpg">
-  <div class="img-caption">
-    Česko a okolí na interrailové mapě.
-  </div>
-</div>
+{% include img.html path="pages/ircz" nosm="true" cls="float-right float-60" caption="Česko a okolí na interrailové mapě." %}
 
 K plánování výletů potřebuju především dvě věci: vlakovou mapu a IDOS. Nejpřehlednější mapa evropské vlakové sítě je [ta poskytovaná Interrailem](https://www.cd.cz/assets/typy-jizdenek/mezinarodni-jizdenky/interrail---mapa-platnosti.pdf). Jsou v ní zakreslené nejdůležitější tratě i lodní spojení. Hlavní mapu doplňují další s přehledem povinných místenek nebo průměrnými cestovními časy mezi velkými městy.
 
