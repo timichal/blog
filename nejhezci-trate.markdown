@@ -51,39 +51,24 @@ Víc do vnitrozemí zamíří francouzská lokálka až za přístavem Saint-Rap
 {% include img.html path="pages/messina" cls="float-right" caption="Vlaky na trajektu směrem ze sicilské Messiny." %}
 Dnes už v Evropě zbývá poslední trasa, na které si můžete vyzkoušet jednu dřív rozšířenější dopravní zvláštnost: vlakový trajekt. Italským rychlovlakem Frecciarossa se dostanete přes celou Itálii až na Sicílii. Kromě toho, že tyhle vlaky patří mezi nejlepší v Evropě - jet mezi Římem a Neapolí rychlostí asi 300 kilometrů v hodině je památný zážitek - je součástí cesty **trajekt přes Messinskou úžinu**.
 
-Na ten se vlak složitým procesem nalodí a asi hodinu se přepravuje přes moře. Během cesty trajektem je oficiálně nutné z vlaku vystoupit a vyjít na palubu. V praxi vás k tomu nikdo nenutí, ale přijít o výhledy na Sicílii by byla škoda.  
-
-<!--
-### Z Nimes do Clermont-Ferrand
-Jedna hezká trať je kupodivu i ve Francii. Jednou nebo dvakrát denně jede po staré trati mezi Nimes a Clermont-Ferrand motorák, který překonává divokou trasu atd.
-
-### Do Skandinávie přes Öresundský most ==
-Další dobrá trať pro začínající vlakové dobrodruhy vede z německého Hamburku do Kodaně a dál do Švédska. Přes jednotlivé dánské ostrovy do Kodaně vede série mostů/tunelů?.... Vrcholem je pak Öresundský most, kde vlaky jezdí teprve od roku XXXX. Přes X km dlouhý most jedou vlaky do Malmö hned na druhé straně i naklápěcí X1000 rovnou do Stockholmu.
-
-Přímý vlak z Hamburku bývá hodně plný, vyplatí se buď pořídit nepovinné místenky, nebo se radši projet sérii lokálních vlaků. Od roku 2024 má pak fungovat přímý vlak Praha-Kodaň.
+Na ten se vlak složitým procesem nalodí a asi hodinu se přepravuje přes moře. Během cesty trajektem je oficiálně nutné z vlaku vystoupit a vyjít na palubu. V praxi vás k tomu nikdo nenutí, ale přijít o výhledy na Etnu by byla škoda. Sopku pak můžete obkroužit kouzelnou úzkorozchodkou [Circumetnea](https://en.wikipedia.org/wiki/Ferrovia_Circumetnea). 
 
 ### Norské tratě: Trondheim, Bergen, Stavanger
-V Norsku je podobně jako ve Švýcarsku ohromující příroda. Vlaky se šinou podél hor a fjordů, přejíždějí zasněžené oblasti i XXX. 
+{% include img.html path="pages/myrdal" cls="float-left" caption="Na cestě z Osla do Bergenu kousek od Myrdalu, odkud vede trať Flåmsbana." %}
 
-Asi nejznámější je trať z Osla do Bergenu. Odbočka na Flam
+Norsko se ohromující přírodou i bolestivými cenami podobá Švýcarsku. Podobný zážitek jako ve Švýcarsku je i cestování norskými vlaky. Šinou se podél hor a fjordů, přejíždějí přes zasněžená sedla i zapadlé vesničky. Tratí je v Norsku jen pár, zato s výběrem moc nemůžete šlápnout vedle.
 
-Míň turistická, ale o nic míň hezká je trať Oslo-Stavanger.
+Asi nejznámější je trať **z Osla do Bergenu**. Sedm hodin dlouhá cesta z hlavního města na západní pobřeží je taková rychloexkurze Norskem. Kus před Bergenem můžete přesednout na hodně oblíbenou turistickou trať Flåmsbana, která se z necelých 900 metrů nad mořem svažuje až k nejdelšímu norskému fjordu Sognefjorden. Ceny ale popularitě téhle vyhlídkové projížďky odpovídají. 
 
-Oboje jde spojit - mezi Bergenem a Stavangerem jezdí autobusy i trajekt.
+{% include img.html path="pages/trondheim" cls="float-right" caption="Jarní Trondheim." %}
+O nic míň hezké je jet vlakem po jižní trase **Oslo–Stavanger**. Bergen i Stavanger jsou pěkná přístavní města se stereotypními barevnými dřevěnými domky na nábřežích. Přes všechna tři města navíc můžete udělat kolečko - z Bergenu do Stavangeru jezdí autobusy i trajekt.
 
-Na sever pak vede o nic míň hezká trať z Osla do Trondheimu. Z něj se pak dá odbočit na východ zpět do Švédska.
+Pokud vás láká jet na úplný sever evropské vlakové sítě, můžete si vybrat jednu ze dvou srovnatelně malebných tratí **z Osla do Trondheimu**, dalšího z hezkých norských přístavů. O letních nocích už tam zažijete jen pár hodin tmy. Z Trondheimu pak zčásti podél pobřeží vyráží na desetihodinovou cestu vlak až do **Bodø** za polárním kruhem.
 
-Místenky do norských vlaků se dají zařídit jen na místě nebo předem po telefonu (nadiktujete mail a číslo karty, místenky přijdou mailem, první třída je zdarma), ale druhá možnost se přinejmenším u tratě Oslo-Bergen dost vyplatí - spojení bývá hodně vytížené.
+### Balkánem z Baru do Bělehradu
 
 ### Inlandsbanan: Na sever švédským vnitrozemím
-Vyloženě turistický vlak jezdí jen v létě mezi Morou a Gällivare. Ve vlaku je průvodce, který říká zajímavosti o okolí, a dělá se pár zastávek na nákup suvenýrů a fotku na polárním kruhu. Trať na dvou úsecích překoná XX kilometrů. Místenky jsou teoreticky nepovinné, ale minimálně v úseku mezi Östersundem a Gällivare - vlak je malý motorák a reálně hrozí, že se nevejdete.
-
-### Vlakem do Finska: Haparanda/Tornio
-Evropská vlaková specialita je dojet do Finsku po souši. To je možné až od roku 2021, kdy začaly jezdit vlaky do Haparandy. Tam se můžete pokochat nejsevenější Ikeou na světě a přejít pár kilometrů na odlehlou zastávku Torio itäinen, odkud jede noční vlak do Helsinek.
-
-### Eurostar: Rychlovlak do Anglie ==
-
-### West Highland Line: Na Skye přes viadukt z oblíbeného mileniálního filmu ==
-
-### Bar-Bělehrad
+<!--
+Vyloženě turistický vlak jezdí jen v létě mezi Morou a Gällivare. Ve vlaku je průvodce, který říká zajímavosti o okolí, a dělá se pár zastávek na nákup suvenýrů a fotku na polárním kruhu. Trať na dvou úsecích překoná XX kilometrů.
 -->
+### West Highland Line: Na Skye přes viadukt z oblíbeného filmu pro mileniály
