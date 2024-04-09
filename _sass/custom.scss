@@ -45,6 +45,9 @@ table.trip td:first-child {
 }
 
 table.daily {
+  td {
+    padding: 5px;
+  }
   td:first-child {
     text-align: right;
     font-weight: bold;
