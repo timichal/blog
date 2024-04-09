@@ -37,9 +37,22 @@
   }
 }
 
-table td:first-child {
+table.trip td:first-child {
   font-weight: bold;
   vertical-align: top;
   padding-right: 25px;
   white-space: nowrap;
+}
+
+table.daily {
+  td:first-child {
+    text-align: right;
+    font-weight: bold;
+  }
+  td:nth-child(2), td:nth-child(3) {
+    text-align: center;
+  }
+  td:nth-child(4) {
+    font-weight: bold;
+  }
 }

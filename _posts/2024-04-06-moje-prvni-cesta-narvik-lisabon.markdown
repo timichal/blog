@@ -136,7 +136,7 @@ Trochu omlácený vlak mířící z Porta je pomalejší než rychlovlaky na ste
 Na nádraží v Lisabonu vystupuju do přímořského podnebí a patnácti stupňů nad nulou. V hotelu odhodím věci a jdu se projít městem, kde nemají o evropské zimě ani ponětí. Zítra mě čeká cesta letadlem domů, ale už teď si říkám, že bych hned zase někam jel. 
 
 ### Itinerář
-<table>
+<table class="trip">
   <tbody>
     <tr>
       <td>7. 12. 2021</td>
