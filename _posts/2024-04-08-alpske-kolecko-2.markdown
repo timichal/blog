@@ -20,7 +20,7 @@ Z Ženevy do Francie pokračují kromě TGV klasické regionální vlaky, který
 
 Alpy jsou napřed v trochu větší dálce a trať vede hlavně kolem kopců na jejich okraji, ale samotný Grenoble je ze všech stran obklopený horami. Město je staré tisíce let - jeho název je zkomoleninou _Gratianopolis_, jak tehdejší vesnici skromně přejmenoval římský císař Gracián - ale nakonec ho potkal smutný osud řady dalších okolních sídel a stal se součástí Francie.
 
-{% include img.html path="2024-04-08/lanovka" cls="float-right" %}
+{% include img.html path="2024-04-08/lanovka" cls="float-left" %}
 Paní na recepci hotelu, který jsem po chvilce bloudění našel maskovaný za garážový vjezd, mě vyzvala, ať při odchodu odevzdám klíč a vrátím se před desátou večer, takže jsem pochopil, že tohle je ubytovací zařízení ze staré školy, a radši jsem rovnou vyrazil na průzkum města. Hlavním lákadlem Grenoblu je lanovka, která jezdí na vrch k pevnosti Bastille (ovšem k jiné než té z dějepisu, ta už je dobytá). Nepřekvapilo mě tedy, že zrovna ten den byla mimo provoz, a jako obvykle jsem se na kopec vydrápal svépomocí.
 
 Stezka byla dost rušná a mladí i staří čile vyšlapávali klikatou cestu k pevnosti. Já jsem sípal na přímější trase po schodech, která vedla hned vedle, zatímco mě obíhali běžci s řádově lepší fyzičkou. Schody mířily přes krátké tunely ze staré pevnosti a dovedly mě až nahoru ke stanovišti lanovky. Výhled na večerní Alpy stál za to (podle mapky byl možná vidět i Mont Blanc, což jsem bohužel zjistil až cestou dolů). Výkon jsem oslavil pivem v místní skotské pivnici, která v Grenoblu doplňuje evropskou tradici irské hospody na každém rohu.
